@@ -1,2 +1,2 @@
-# mit6.828-Labs
-HUST OS Course Design
+# [HustLab]mit6.828
+The course project of OS.[Undergraduate coursework]
